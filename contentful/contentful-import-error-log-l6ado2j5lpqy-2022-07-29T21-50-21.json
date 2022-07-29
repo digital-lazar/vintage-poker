@@ -1,0 +1,14 @@
+[
+  {
+    "ts": "2022-07-29T19:50:21.901Z",
+    "level": "error",
+    "error": {
+      "originalError": {
+      },
+      "stacktrace": [
+        "Error: Error: Please make sure the destination space have the same default locale as the source Default locale for source space : en Default locale for destination space: en-US ",
+        "C:\\Users\\LAZZARO\\AppData\\Roaming\\npm\\node_modules\\contentful-cli\\node_modules\\contentful-batch-libs\\dist\\listr.js:24:29"
+      ]
+    }
+  }
+]
