@@ -2,7 +2,7 @@ const theme = {
   // Colors
   colors: {
     // Primary Brand Colors
-    primaryCta: 'hsl(202, 49%, 28%)',
+    primaryCta: '#935d23',
     primaryCtaDarker: 'hsl(202, 49%, 18%)',
     secondaryCta: 'hsl(202, 36%, 55%)',
     secondaryCtaDarker: 'hsl(202, 36%, 45%)',
@@ -10,10 +10,10 @@ const theme = {
     // Secondary Brand Colors
     darkBg: 'hsl(43, 40%, 60%)',
     lightBg: 'hsl(43, 40%, 81%)',
-    lightestBg: 'hsl(43, 40%, 86%)',
+    lightestBg: '#191a1c',
     // Font Colors
     fontColorLight: 'hsl(40, 100%, 99%)',
-    fontColorDark: 'hsl(36, 71%, 3%)',
+    fontColorDark: '#fff',
     fontColorDarkLighter: 'hsl(36, 71%, 13%)',
     // Other colors
     playingCardBg: 'hsl(49, 63%, 92%)',
